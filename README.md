@@ -101,6 +101,7 @@ deeper networks. Different scaling dimensions are not independent. EfficientNet 
 that uniformly scales all dimensions of depth (d), width (w)
 and resolution (r). It uses a new compound scaling method,
 which uses compound coefficient ϕ. 
+</br>
 ![image](https://user-images.githubusercontent.com/65457437/184885484-5f46a5a2-ea6e-47ec-8f1c-fd290b3c72f0.png)
 
 Here ϕ is user specified coefficient
